@@ -1,0 +1,12 @@
+site_name: Json Jung
+site_url: https://json-jung.github.io
+site_author: Json Jung 
+site_description: "Json Jung's blog"
+theme:
+    name: material
+    highlightjs: true
+repo_url: "https://github.com/json-jung/json-jung.github.io"
+copyright: "Copyright @ 2023 <a href='https://github.com/json-jung' >Json Jung</a>"
+
+nav:
+  - Home: index.md
