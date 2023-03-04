@@ -1,2 +1,2 @@
-# Welcome to Jsog Jung's blog
+# Welcome to Json Jung's blog
 
